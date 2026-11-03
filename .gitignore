@@ -1,0 +1,3 @@
+# Private copies of the extension script
+scripts/*.local.js
+scripts/*.private.js
